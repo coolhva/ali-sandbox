@@ -1,0 +1,6 @@
+.DS_Store
+venv
+*.code-workspace
+.vscode
+!**/__pycache__/
+__pycache__/
